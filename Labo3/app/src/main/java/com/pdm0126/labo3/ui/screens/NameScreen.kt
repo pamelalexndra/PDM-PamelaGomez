@@ -40,7 +40,7 @@ fun NameScreen(
             color = TextMain
         )
         Text(
-            text = "${listaNombres.size} guardados",
+            text = "${listaNombres.size} nombres",
             fontSize = 13.sp,
             color = Purple,
             modifier = Modifier.padding(top = 2.dp, bottom = 28.dp)
